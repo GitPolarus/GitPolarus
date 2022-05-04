@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ablam Hippolyte EZIAN
-- 👀 I’m interested in web full stack Software Development and passionate in providing good solution with technologies.
+- 👀 I’m interested in web full stack Software Development and passionate in providing good solutiosn with technologies.
 - 🌱 I’m currently coaching at 3W Academy in full stack development
 - 💞️ I’m looking to collaborate on Web or mobile project 
 - 📫 How to reach me ...
