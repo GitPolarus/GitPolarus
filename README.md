@@ -8,7 +8,7 @@ GitPolarus/GitPolarus is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/ezian-hippolyte-71b40817a/</h3>
+<h3 align="left">Connect with me: <a href:"https://www.linkedin.com/in/ezian-hippolyte-71b40817a/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="android" width="40" height="40"/></a> </h3>
 <p align="left">
 </p>
 
