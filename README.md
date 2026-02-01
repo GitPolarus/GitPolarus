@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hippolyte EZIAN
 - 👀 I’m interested in web full stack Software Development and passionate in providing good solutions with technologies.
-- 🌱 I’m currently coaching at 3W Academy in full stack development
+- 🌱 I’m currently analyst developer at Attijariwafa Bank
 - 💞️ I’m looking to collaborate on Web or mobile project 
 
 <!---
