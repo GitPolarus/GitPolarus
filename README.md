@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hippolyte EZIAN
 - 👀 I’m interested in web full stack Software Development and passionate in providing good solutions with technologies.
-- 🌱 I’m currently analyst developer at Attijariwafa Bank
+- 🌱 I’m currently an analyst developer at Attijariwafa Bank
 - 💞️ I’m looking to collaborate on Web or mobile project 
 
 <!---
